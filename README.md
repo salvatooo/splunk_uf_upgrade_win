@@ -1,4 +1,4 @@
-# Splunk Universal Forwarder (Windows) Upgrade App
+# Splunk UniversalForwarder (Windows) Upgrade App
 
 Deploy this App via the Splunk Deployment Server to upgrade the Splunk UniversalForwarder (Windows)
 
