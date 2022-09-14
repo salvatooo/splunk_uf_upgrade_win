@@ -1,1 +1,1 @@
-# splunk_uf_upgrade_win
+Splunk Universal Forwarder (Windows) Upgrade App
